@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30099" started-at="2017-04-12T17:05:36Z" finished-at="2017-04-12T17:06:06Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="30099" started-at="2017-04-12T17:05:36Z" finished-at="2017-04-12T17:06:06Z">
+      <class name="apple.GmailMethods">
+        <test-method status="PASS" signature="f()[pri:0, instance:apple.GmailMethods@5a8e6209]" name="f" duration-ms="23961" started-at="2017-04-12T22:35:36Z" finished-at="2017-04-12T22:36:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="g()[pri:1, instance:apple.GmailMethods@5a8e6209]" name="g" duration-ms="5591" started-at="2017-04-12T22:36:00Z" finished-at="2017-04-12T22:36:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g -->
+        <test-method status="PASS" signature="h()[pri:2, instance:apple.GmailMethods@5a8e6209]" name="h" duration-ms="109" started-at="2017-04-12T22:36:05Z" finished-at="2017-04-12T22:36:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- h -->
+        <test-method status="PASS" signature="i()[pri:3, instance:apple.GmailMethods@5a8e6209]" name="i" duration-ms="343" started-at="2017-04-12T22:36:05Z" finished-at="2017-04-12T22:36:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- i -->
+      </class> <!-- apple.GmailMethods -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
